@@ -1,15 +1,22 @@
 h1{
-    text-align: center;
-    background-color:rgba(236, 64, 20, 0.294);
+    background-color:#ECCEF5;
 }
 .subtitulo{
     border: solid 1px;
     border-color: coral;
     font-family: arial;
 }
-body{
-    background-color: burlywood;
-    
+
+
+.centro{
+    text-align: center;
+}
+
+.rosa{
+    background-color: #ECCEF5;
 }
 #minion{margin-left:500px;}
-#ester{margin-left:500px;s
+#ester{margin-left:500px;}
+.clothes-list {
+    font-size: 16pt;
+}
