@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color:rgba(236, 64, 20, 0.294);
+}
+.subtitulo{
+    border: solid 1px;
+    border-color: coral;
+    font-family: arial;
+}
+body{
+    background-color: burlywood;
+    
+}
+#minion{margin-left:500px;}
+#ester{margin-left:500px;s
