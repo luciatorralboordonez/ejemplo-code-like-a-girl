@@ -20,3 +20,10 @@ h1{
 .clothes-list {
     font-size: 16pt;
 }
+.dark-bg-div{
+    background-color:rgb(44, 41, 41);   
+}
+h3{
+    border:solid;
+    background-color:#ECCEF5;
+}
